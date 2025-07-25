@@ -3,14 +3,30 @@
 A new Flutter project.
 
 ## Getting Started
+# 🛍️ Consolidated Shopping Cart – Flutter App
 
-This project is a starting point for a Flutter application.
+A modern and responsive Flutter application that allows users to manage multiple shopping carts in a clean and organized interface.  
+This app is designed to be part of a larger Retail Store system and focuses on simplicity, clarity, and efficient cart management.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🧾 **Create Multiple Carts**  
+  Add and manage different carts, each with a buyer name and optional notes.
+
+- 🛒 **Edit Cart Details**  
+  Update cart items, prices, tax, discounts, and more.
+
+- 💾 **Local Data Storage**  
+  Persist data using **Hive**, even after restarting the app.
+
+- 🗑️ **Delete Cart**  
+  Easily remove any cart with one tap.
+
+- 🎨 **Stylish UI**  
+  Peach & cream theme with compact layout inspired by Amazon/Flipkart.
+
+- ✅ **Export & Save (Planned)**  
+  Upcoming feature to export cart data as PDF or CSV.
+
